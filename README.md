@@ -54,3 +54,6 @@ Data Pipeline: Run the Bronze and Silver cells to generate and transform the dat
 Analytics: Execute the Gold SQL queries to generate the performance table.
 
 Machine Learning: Run the MLflow cells to train the model and generate real-time predictions.
+
+## Link
+https://youtu.be/OLhcnzhP2AQ
